@@ -1,3 +1,3 @@
-#Cyber competition scripts
+# Cyber competition scripts
 
 Disclosed for use in competition. 
