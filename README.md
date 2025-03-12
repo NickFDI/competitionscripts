@@ -1,2 +1,3 @@
-# NCAE
-NCAE public disclosure scripts. These need to be disclosed publicly in order to be used in competition. 
+#Cyber competition scripts
+
+Disclosed for use in competition. 
