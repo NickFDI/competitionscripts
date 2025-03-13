@@ -1,3 +1,3 @@
 # Cyber competition scripts
 
-Disclosed for use in competition. Testing
+Disclosed for use in competition.
