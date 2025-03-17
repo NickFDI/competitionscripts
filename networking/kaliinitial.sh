@@ -2,11 +2,11 @@
 
 
 # MODIFY ACCORDINGLY
-INTERFACE="eth0"
-DEFAULT_IP="192.168.16.4"
-DEFAULT_NETMASK="255.255.255.0"
-DEFAULT_GATEWAY="192.168.16.1"
-DEFAULT_DNS="ns1.team16.net"
+INTERFACE="Change Interface"
+DEFAULT_IP="192.168.x.x"
+DEFAULT_NETMASK="255.255.x.x"
+DEFAULT_GATEWAY="192.168.x.x"
+DEFAULT_DNS="some.hostname.net"
 
 # Check the networking interface
 if ! ip link show | grep -q "$INTERFACE"; then
